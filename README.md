@@ -25,6 +25,4 @@ sobel_x : 为sobel在X方向的operator(numpy.array)
 sobel_y : 为sobel在Y方向的operator(numpy.array)                     
 laplace : 为laplace算子(numpy.array)         
 simpleLaplace : 为简易laplace算子(numpy.array)        
-canny : 需要使用getGaussianMarix获取高斯核卷积后调用cannyKernel和cannyFinal来进行计算             
-### 配套博客     
-http://blog.accut.cn/archives/420           （如果提示404那就是我还没有写完）QAQ               
+canny : 需要使用getGaussianMarix获取高斯核卷积后调用cannyKernel和cannyFinal来进行计算                       
